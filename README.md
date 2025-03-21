@@ -18,30 +18,8 @@ A simple and interactive **Weather App** that provides real-time weather updates
 1. **Clone the repository:**  
    ```sh
    git clone https://github.com/shivanshi-22/WEATHER-APP.git
-Navigate into the project folder:
 
-sh
-Copy
-Edit
-cd WEATHER-APP
-Install dependencies:
 
-sh
-Copy
-Edit
-npm install
-Get your API key from OpenWeather and add it to your .env file:
-
-sh
-Copy
-Edit
-REACT_APP_WEATHER_API_KEY=your_api_key_here
-Start the development server:
-
-sh
-Copy
-Edit
-npm start
 Open the app in your browser:
 
 arduino
